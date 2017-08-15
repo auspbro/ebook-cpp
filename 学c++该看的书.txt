@@ -1,0 +1,88 @@
+曾经有一个人写了这个东西，我觉得有些道理，就贴出来吧
+
+C++/OPP/OOD系列:
+层级一：语法/语意(C++)
+[Lippman2000] Essential C++
+Essential C++,by Stanley B. Lippman Addison Wesley Longman 2000,276 pages
+Essential C++ 中文版 ，侯俊杰 译，282页  
+
+[Gregory95] C++:The Core Language 
+C++:The Core Language by Gregory Satir 1995 O'Reilly
+C++语言核心，张铭泽　译 ，236页
+
+[Deitel98] The Complete C++ Training Course 
+The Complete C++ Training Course 2/e by Harvey M.Deitel 1998 Prentice Hall
+C++大学教程(第二版)，邱仲潘等　译，816页
+
+[Stevens2000] Standard C++ Bible
+Standard C++ Bible   2000  Al Stevens   IDG 
+标准C++宝典，林丽闽等 译，766页
+
+[Eckel2000] Thinking in C++ 
+Thinking in C++ 2/e   Bruce Eckel  2000 1470 pages Prentice Hall
+C++ 编程思想，刘宗田等 译，420页
+
+[Lippman98] C++Primer 
+C++ Primer,3rd Editoin,by Stanley Lippman and Josee Lajoie 
+ Addison Wesley Longman,1998 1237 pages
+C++ Primer 中文版，侯俊杰 译，1999，1237页
+
+[Struostrup2000] The C++ Programming Language
+The C++ Programming Language,Special Editoin,by Bjarne Stroustrup
+ Addison Wesley Longman,2000,1017 pages
+C++程序语言经典本，叶秉哲 译，儒林 1999
+
+[ANSI C++] C++规格书 1998.9.1 PDF格式
+ANSI C++ 1996 Draft
+
+
+层级二：专家经验(C++/OOP)
+[Meyers96] More Effective C++
+More Effective C++,by Scott Meyers,Addison Wesley,1996,318pages
+More Effective C++中文版，侯俊杰，培生 2000. 318页
+
+[Meyers98] Effective C++ 
+Effective C++，Second Edition,by Scott Meyers,Addison Wesley Longman,1998.256pages
+Effective C++ 2/e 中文版,侯俊杰,培生 2000.256页
+
+[Sutter99] Exceptional C++
+Exceptional C++，by Herb Sutter,Addison Wesley Longman,2000.208pages
+Exceptional C++中文版，侯俊杰,培生 2000.248页
+ 
+[Sutter2001]More Exceptional C++ 
+More Exceptional C++ by Herb Sutter,Addison Wesley Longman,2001.
+
+层级三：底层机制(C++ Object Model)
+[Ellis90] The Annotated C++ Reference Manual
+The Annotated C++ Reference Manual,by Margaret A.Ellis and Bjarne Stroustrup 
+Addison Wesley Longman,1990,447 pages.
+
+[Lippman96] Inside the C++ Object Model
+Inside the C++ Object Model,by Stanley Lippman,Addison Wesley Longman,1996,280pages
+深度探索C++物件模型，侯俊杰 译 
+
+
+层级四：设计观念的复用(C++/Patterns)
+[Gamma95] Design Patterns：Elements of Reusable Object Oriented Software,
+by Erich Gamma,Richard Helm,Ralph Johnson,and John Vlissides,Addison Wesley,1995.395pages
+设计模式,李英军等译,机械工业出版社,2000.254页
+
+[Alex2001]Modern C++ Design: Generic Programming and Design Patterns Applied
+by Andrei Alexandrescu,Addison-Wesley,2001,352Paper
+ 
+
+Genericity/STL系列:
+第一个境界是使用STL:
+[Josuttis99]:The C++ Standard Library －A Tutorial and Reference,by Nicolai M.Josuttis,
+Addison Wesley 1999.799pages
+
+第二个境界是了解泛型技术的内涵与STL的学理:
+[Austern98]:Generic Programming and the STL -Using and Extending the C++ Standard 
+Template library,by Matthew H.Austern,Addison Wesley 1998.548page
+
+
+第三个境界是扩充STL:
+[Stepanov2001]:C++ Standard Template Library by P.J.Plauger,Alexander A.Stepanov,
+Meng Lee,David R.Musser,Prentice Hall 2001 
+
+这些就是你应该看的书，如果你想成为高手。
